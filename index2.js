@@ -9,4 +9,4 @@ document.getElementsByClassName("button-click")[0].addEventListener('click', ()=
     
     }
 });
-console.log(document.getElementsByClassName("small-box"));
+console.log(document.getElementsByClassName("small-box")); 
