@@ -1,0 +1,17 @@
+.small-box{
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    /* background-color: green; */
+}
+
+.small-box2{
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    /* background-color: green; */
+}
+
+#abcd {
+    color: aqua;
+}
