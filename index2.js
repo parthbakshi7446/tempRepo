@@ -7,6 +7,6 @@ document.getElementsByClassName("button-click")[0].addEventListener('click', ()=
             collection[i].style.backgroundColor = "blue";
         }
     
-    }
-});
+    } 
+}); 
 console.log(document.getElementsByClassName("small-box")); 
